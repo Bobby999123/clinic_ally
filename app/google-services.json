@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569107998011",
+    "project_id": "freemovers-9e345",
+    "storage_bucket": "freemovers-9e345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569107998011:android:abe0f2230ea5e60357031e",
+        "android_client_info": {
+          "package_name": "com.example.freemovers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569107998011-llg1o6c1jnhu53nvofgfhab0ou22iu1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAhMsVYYglHvtZBRhC91J5SEf_HGw6FZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569107998011-llg1o6c1jnhu53nvofgfhab0ou22iu1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
